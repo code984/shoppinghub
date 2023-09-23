@@ -1,0 +1,64 @@
+/* Navbar.css */
+.navbar {
+    display: flex;
+    align-items: center;
+    padding: 1rem 2rem;
+    background-color:slateblue;
+    color: white;
+    
+  }
+  
+  .logo {
+    height: 40px;
+    width: auto;
+    color: white;
+    margin-right: 8px;font-size: 28px;
+  }
+  
+  .brand {
+    font-size: 1.2rem;
+    font-weight: bold;
+  }
+  
+  .menu button {
+    background-color: #f39c12;
+    color: white;
+    border: none;
+    padding: 0.5rem 1rem;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .welcome-page {
+    text-align: center;
+    margin-top: 2rem;
+  }
+  
+  .welcome-page p {
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+  
+  .welcome-page button {
+    background-color: #3498db;
+    color: white;
+    border: none;
+    padding: 0.5rem 1rem;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
